@@ -4,7 +4,7 @@
 
 ## Full-Stack Developer
 
-I am a full-stack Developer with over 8 years of experience building scalable, performant, and user-friendly web applications. I have experience in building applications in various industries including Fintech, Healthcare, and Muncipality, web applications.
+I am a full-stack Developer with over 8 years of experience building scalable, performant, and user-friendly web applications. I have experience in building applications in various industries including Fintech, Healthcare, and Muncipality, web applications, Logistics
 
 - 🌍 I'm based in Mumbai, India
 - ✉️ You can contact me at [mayurpatil.b93@gmail.com](mailto:mayurpatil.b93@gmail.com)
